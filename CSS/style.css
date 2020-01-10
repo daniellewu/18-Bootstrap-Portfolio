@@ -1,0 +1,58 @@
+@import url("bootstrap.min.css");
+@import url("bootstrap-theme.css");
+
+  .jumbotron {
+      background-color: white;
+  }
+  
+.navbar-brand {
+    align-content: center !important;
+}
+
+#navbarSupportedContent {
+    display: flex;
+    flex-direction: row-reverse;
+   
+}
+
+
+.lead, .display-4 {
+    text-align: left;
+}
+
+.dwu_photo {
+    display: flex;
+    justify-content: center;
+}
+
+.card-body1 {
+    background-color: black;
+}
+
+.blockquote p {
+    color: #F8A58F;
+    display: flex;
+    justify-content: center;
+}
+
+.blockquote-footer {
+    color: #D58B78;
+    display: flex;
+    justify-content: center;
+}
+
+
+.navbar-brand {
+    font-weight: bold;
+    
+}
+
+.nav-work, .nav-about, .nav-contact { 
+    align-content: right;
+
+}
+
+.jumbotron .container button {
+    text-align:  center;
+}
+
