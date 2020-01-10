@@ -1,7 +1,10 @@
 @import url("bootstrap.min.css");
 @import url("bootstrap-theme.css");
 
-  .jumbotron {
+.navbar {
+    background-color: #373A3C;
+}
+.jumbotron {
       background-color: white;
   }
   
